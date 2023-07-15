@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{f2a6be73-4846-4954-8dba-bdd89d56899c}") = "Berger.Extensions.Xml", "Berger.Extensions.Xml\Berger.Extensions.Xml.csproj", "{4e63e138-9a5f-43e5-9834-daca046a2bc1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4e63e138-9a5f-43e5-9834-daca046a2bc1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4e63e138-9a5f-43e5-9834-daca046a2bc1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4e63e138-9a5f-43e5-9834-daca046a2bc1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4e63e138-9a5f-43e5-9834-daca046a2bc1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4961BE93-F316-4B63-8144-768113F9C617}
+	EndGlobalSection
+EndGlobal
